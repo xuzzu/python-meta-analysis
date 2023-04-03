@@ -28,4 +28,4 @@ Run the script with input in the following format:
 python meta_analysis.py ["study1 data", "study2 data"] '{"datatype": "cont", "models": "fixed", "algorithm": "DL", "effect": "SMD"}'
 ```
 
-![plot](Plot.png)
+![plot](Plot.jpg)
