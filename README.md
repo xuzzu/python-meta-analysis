@@ -13,7 +13,7 @@ The main() function uses the PythonMeta library to initialize three classes: Dat
 First, you can clone the repository:
 
 ```bash
-  git clone https://link-to-project
+    git clone https://github.com/xuzzu/python-meta-analysis.git
 ```
 
 Then install PythonMeta:
